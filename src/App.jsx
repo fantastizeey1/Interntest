@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Footer from "./components/Footer";
 import Whoweare from "./components/Whoweare";
+import Whatweoffer from "./components/Whatweoffer";
 const App = () => {
   return (
     <div className="font-montserrat">
@@ -10,6 +11,7 @@ const App = () => {
       <main>
         <Hero />
         <Whoweare />
+        <Whatweoffer />
       </main>
       <Footer />
     </div>
