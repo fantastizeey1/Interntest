@@ -5,6 +5,7 @@ import Footer from "./components/Footer";
 import Whoweare from "./components/Whoweare";
 import Whatweoffer from "./components/Whatweoffer";
 import FounddersFriday from "./components/FounddersFriday";
+import Sponsour from "./components/Sponsour";
 const App = () => {
   return (
     <div className="font-montserrat">
@@ -14,6 +15,7 @@ const App = () => {
         <Whoweare />
         <Whatweoffer />
         <FounddersFriday />
+        <Sponsour />
       </main>
       <Footer />
     </div>
