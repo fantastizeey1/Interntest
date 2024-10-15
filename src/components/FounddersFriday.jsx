@@ -23,11 +23,11 @@ const FounddersFriday = () => {
           <img src="/ArrowRightwhite.png" alt="" />
         </button>
       </div>
-      <div className="w-full lg:w-1/2 flex justify-center mt-8 lg:-mt-[30px] ">
+      <div className="w-2/5 lg:w-1/2 flex justify-center mx-auto md:mx-0 md:justify-end mt-8 lg:-mt-[30px] ">
         <img
           src="/Frame 714.png"
           alt=""
-          className="w-full max-w-[500px] lg:max-w-none"
+          className=" max-w-[400px] lg:max-w-[533px] h-[678px]"
         />
       </div>
       <img

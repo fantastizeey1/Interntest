@@ -37,7 +37,7 @@ const Hero = () => {
 
           {/* Collaborator section */}
           <div className="flex flex-col  mt-[40px] md:mt-[88px]">
-            <div className="flex gap-9 md:gap-[32px] mb-[30px]">
+            <div className="flex gap-7 md:gap-[32px] mb-[30px]">
               <img
                 src="/Ellipse 1.png"
                 alt="Collaborator logo 1"
