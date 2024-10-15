@@ -25,7 +25,7 @@ const Whoweare = () => {
             Register <img src="/ArrowRightwhite.png" alt="" />
           </button>
           <button className="w-full md:w-1/2 bg-white text-[#A649FF] border border-[#A649FF] px-6 md:px-[70px] py-[12px] md:py-[20px] rounded-[30px] md:rounded-[40px] flex items-center justify-center gap-5 text-[18px] md:text-[24px] font-bold">
-            Register <img src="/Money Bag.png" alt="" />
+            Donate <img src="/Money Bag.png" alt="" />
           </button>
         </div>
         <p className="text-[18px] md:text-[22px] leading-[24px] md:leading-[29px] font-semibold">
