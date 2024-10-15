@@ -7,7 +7,7 @@ const Whoweare = () => {
         <img
           src="/IMG_2857 1.png"
           alt=""
-          className="w-full max-w-[400px] h-auto md:w-[700px] md:h-[564px]"
+          className="w-full min-w-[400px] h-auto md:w-[700px] md:h-[564px]"
         />
       </div>
       <div className="lg:w-1/2 w-full">

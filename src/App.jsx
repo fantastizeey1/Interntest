@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import Footer from "./components/Footer";
 import Whoweare from "./components/Whoweare";
 import Whatweoffer from "./components/Whatweoffer";
+import FounddersFriday from "./components/FounddersFriday";
 const App = () => {
   return (
     <div className="font-montserrat">
@@ -12,6 +13,7 @@ const App = () => {
         <Hero />
         <Whoweare />
         <Whatweoffer />
+        <FounddersFriday />
       </main>
       <Footer />
     </div>
