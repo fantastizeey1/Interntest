@@ -8,7 +8,7 @@ const Header = () => {
   };
 
   return (
-    <header className="w-full h-[125px] flex justify-between items-center md:px-[80px] px-[20px] border-b border-[#75687E]/30">
+    <header className="w-full bg-white  h-[125px] flex justify-between items-center md:px-[80px] px-[20px] border-b border-[#75687E]/30">
       <div className="flex items-center gap-[10px] lg:w-2/5 xl:w-1/2 2xl:w-4/5">
         <img src="/Logo.png" alt="logo" className="w-[80px] h-[80px]" />
         <p className="font-montserrat lg:text-[22px] 2xl:text-[28px] xl:leading-[36px] font-bold">
