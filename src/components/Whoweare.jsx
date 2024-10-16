@@ -2,7 +2,7 @@ import React from "react";
 
 const Whoweare = () => {
   return (
-    <section className="max-w-[95%] w-full md:pl-[80px] mx-4 relative mt-10 lg:mt-[180px] gap-16 flex flex-col lg:flex-row">
+    <section className="max-w-[95%] w-full md:pl-[50px] 2xl:pl-[80px] mx-4 relative mt-10 lg:mt-[180px] gap-16 flex flex-col lg:flex-row">
       <div className="lg:w-1/2 w-full flex justify-center">
         <img
           src="/IMG_2857 1.png"
@@ -20,7 +20,7 @@ const Whoweare = () => {
           founders, innovators, and tech enthusiasts could connect, share ideas,
           and foster collaboration.
         </p>
-        <div className="w-full flex flex-col md:flex-row gap-4 md:gap-[36px] mt-[40px] md:mt-[70px] mb-[70px] lg:mb-[105px] 2xl:mb-[130px]">
+        <div className="w-full flex flex-col md:flex-row gap-4 md:gap-[36px] mt-[40px] md:mt-[70px] mb-[70px] lg:mb-[135px] 2xl:mb-[130px]">
           <button className="w-full md:w-1/2 bg-[#A649FF] text-white px-6 md:px-[70px] py-[12px] md:py-[20px] rounded-[30px] md:rounded-[40px] flex items-center justify-center gap-5 text-[18px] md:text-[24px] font-bold">
             Register <img src="/ArrowRightwhite.png" alt="" />
           </button>
@@ -35,7 +35,7 @@ const Whoweare = () => {
       <img
         src="/Line 1.png"
         alt="line"
-        className="absolute top-[22.76px]  lg:left-[52%] 2xl:left-[820px] hidden md:block"
+        className="absolute top-[22.76px]  lg:left-[51%] 2xl:left-[820px] hidden md:block"
       />
     </section>
   );

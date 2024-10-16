@@ -2,16 +2,16 @@ import React from "react";
 
 const Sponsour = () => {
   return (
-    <section className="max-w-[95%] w-full px-4 md:px-[80px] mx-auto relative mt-10 lg:mt-[150px] gap-10 flex flex-col justify-between">
+    <section className="max-w-[95%] w-full px-4 md:px-[50px] 2xl:px-[80px] mx-auto relative mt-10 lg:mt-[60px] 2xl:mt-[150px] gap-10 flex flex-col justify-between">
       <div className="flex flex-col justify-between w-full items-start">
         <h3 className="text-[#5c00b3] text-[24px] md:text-[30px] leading-[30px] md:leading-[38px] font-bold mb-2">
           Sponsor The Next Friday
         </h3>
         <div className="flex flex-col md:flex-row justify-between w-full items-start gap-6">
-          <h2 className="text-[32px] md:text-[55px] leading-[42px] md:leading-[69px] font-bold mb-[25px] md:mb-[45px] md:w-2/5 w-full">
+          <h2 className="text-[32px] md:text-[50px] 2xl:text-[55px] leading-[42px] md:leading-[69px] font-bold mb-[25px] md:mb-[45px] md:w-2/5 w-full">
             Why Sponsor Founders Friday?
           </h2>
-          <p className="w-full md:w-2/5 text-[16px] leading-[19px] font-normal text-[#4C4452] mb-[25px] md:mb-[45px] md:text-end">
+          <p className="w-full md:w-2/5 text-[14px] 2xl:text-[16px] leading-[19px] font-normal text-[#4C4452] mb-[25px] md:mb-[45px] md:text-end">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac
             rutrum felis. Nulla nibh lorem, facilisis vel est at, vehicula
             dignissim lacus. Cras sagittis imperdiet dolor, eget accumsan leo

@@ -102,7 +102,7 @@ const Hero = () => {
       <img
         src="/Vector 1.png"
         alt="Background vector"
-        className="absolute -top-[150px] left-[250px] 2xl:left-[550px] -z-10 hidden md:block"
+        className="absolute -top-[150px] left-[220px] 2xl:left-[550px] -z-10 hidden md:block"
       />
     </section>
   );
