@@ -55,7 +55,7 @@ const Header = () => {
 
       {/* Mobile Menu */}
       {menuOpen && (
-        <div className="lg:hidden absolute top-[125px] left-0 right-0 bg-white border-t border-[#75687E]/30 p-[20px]">
+        <div className="lg:hidden absolute top-[105px] left-0 right-0 z-10 bg-white border-t border-[#75687E]/30 p-[20px]">
           <ul className="flex flex-col items-center gap-[20px]">
             <li className="text-[20px] text-[#9524FF] font-normal">
               <a href="/">Home</a>
