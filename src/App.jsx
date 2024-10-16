@@ -9,6 +9,8 @@ import Sponsour from "./components/Sponsour";
 import Kaduna from "./components/Kaduna";
 import Register from "./components/Register";
 import Vid from "./components/Vid";
+import Attendees from "./components/Attendees";
+import Faq from "./components/Faq";
 const App = () => {
   return (
     <div className="font-montserrat">
@@ -22,6 +24,8 @@ const App = () => {
         <Kaduna />
         <Register />
         <Vid />
+        <Attendees />
+        <Faq />
       </main>
       <Footer />
     </div>
