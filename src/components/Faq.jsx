@@ -52,7 +52,7 @@ const Faq = () => {
             onClick={() => toggleFaq(index)}
           >
             <div className="flex justify-between items-center">
-              <p className="font-semibold text-[#000041] text-[24px] leading-[28.8px] pr-4">
+              <p className="font-semibold text-[#000041] md:text-[24px] leading-[28.8px] pr-4">
                 {faq.question}
               </p>
               <img

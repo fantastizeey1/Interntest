@@ -14,7 +14,7 @@ const Footer = () => {
           <h2 className="font-bold text-[18px] text-center md:text-[35px] lg:text-[45px] text-black leading-[36px] md:leading-[46px] lg:leading-[56px] mb-[20px]">
             Want To Be A Part Of Abuja&apos;s Biggest Tech Community?
           </h2>
-          <button className="flex  w-full lg:w-[490px]  items-center border-2 border-[#9524FF] rounded-[40px] px-[20px] py-[20px] text-[#9524FF] md:text-[28px] leading-[33px] gap-[10px] mb-[70px] md:mb-[128px] text-center">
+          <button className="flex justify-center  w-full lg:w-[490px]  items-center border-2 border-[#9524FF] rounded-[40px] px-[20px] py-[20px] text-[#9524FF] md:text-[28px] leading-[33px] gap-[10px] mb-[70px] md:mb-[128px] ">
             Register For Our Next Event
             <img
               src="/Right arrow.png"
