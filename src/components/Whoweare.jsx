@@ -20,7 +20,7 @@ const Whoweare = () => {
           founders, innovators, and tech enthusiasts could connect, share ideas,
           and foster collaboration.
         </p>
-        <div className="w-full flex flex-col md:flex-row gap-4 md:gap-[36px] mt-[40px] md:mt-[70px] mb-[70px] md:mb-[130px]">
+        <div className="w-full flex flex-col md:flex-row gap-4 md:gap-[36px] mt-[40px] md:mt-[70px] mb-[70px] lg:mb-[105px] 2xl:mb-[130px]">
           <button className="w-full md:w-1/2 bg-[#A649FF] text-white px-6 md:px-[70px] py-[12px] md:py-[20px] rounded-[30px] md:rounded-[40px] flex items-center justify-center gap-5 text-[18px] md:text-[24px] font-bold">
             Register <img src="/ArrowRightwhite.png" alt="" />
           </button>
@@ -28,14 +28,14 @@ const Whoweare = () => {
             Donate <img src="/Money Bag.png" alt="" />
           </button>
         </div>
-        <p className="text-[18px] md:text-[22px] leading-[24px] md:leading-[29px] font-semibold">
+        <p className="text-[16px] lg:text-[17px] 2xl:text-[22px] leading-[20px] md:leading-[25px] 2xl:leading-[29px] font-semibold">
           Founder's Friday is more than just a meetup — it's a movement.
         </p>
       </div>
       <img
         src="/Line 1.png"
         alt="line"
-        className="absolute top-[22.76px] left-[320px] md:left-[820px] hidden md:block"
+        className="absolute top-[22.76px]  lg:left-[52%] 2xl:left-[820px] hidden md:block"
       />
     </section>
   );

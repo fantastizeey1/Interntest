@@ -24,7 +24,7 @@ const Footer = () => {
           </button>
         </div>
       </div>
-      <div className="flex justify-between items-center  flex-col gap-9 md:flex-row w-full">
+      <div className="flex justify-between items-center  flex-col gap-9 md:flex-row w-full mb-10">
         <div className="flex flex-row justify-start  items-center gap-5">
           <a href="https://www.facebook.com/fantastizeey">
             <img src="/Frame 642.png" alt="facebook" />
