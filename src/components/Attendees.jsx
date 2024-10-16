@@ -3,7 +3,7 @@ import React from "react";
 const Attendees = () => {
   return (
     <section className="max-w-[95%] w-full px-4 md:px-[80px] mx-auto mt-10 lg:mt-[180px] gap-10 flex flex-col justify-between items-center relative">
-      <div className="flex flex-col justify-center items-center mb-[80px]">
+      <div className="flex flex-col justify-center items-center mb-[100px]">
         <h2 className="font-bold text-[28px] text-center md:text-[35px] lg:text-[45px] text-black leading-[36px] md:leading-[46px] lg:leading-[56px] mb-[20px]">
           What Do Our Attendees Have To Say?
         </h2>
@@ -13,7 +13,7 @@ const Attendees = () => {
         <img
           src="/Frame 640.png"
           alt="button"
-          className="absolute top-[9%] md:top-0 lg:right-0 cursor-pointer mt-4"
+          className="absolute top-[10%] md:top-0 lg:right-0 cursor-pointer mt-4"
         />
       </div>
 

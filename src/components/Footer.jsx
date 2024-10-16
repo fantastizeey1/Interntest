@@ -9,7 +9,7 @@ const Footer = () => {
           Founde&apos;s <br /> Friday
         </p>
       </a>
-      <div className="border-b  border-[#B86DFF]">
+      <div className="border-b  border-[#B86DFF] mb-[50px]">
         <div className="flex justify-center items-center flex-col gap-6 mx-auto md:w-2/3">
           <h2 className="font-bold text-[18px] text-center md:text-[35px] lg:text-[45px] text-black leading-[36px] md:leading-[46px] lg:leading-[56px] mb-[20px]">
             Want To Be A Part Of Abuja&apos;s Biggest Tech Community?
@@ -22,6 +22,35 @@ const Footer = () => {
               className="md:w-[40px] md:h-[40px]"
             />
           </button>
+        </div>
+      </div>
+      <div className="flex justify-between items-center  flex-col gap-9 md:flex-row w-full">
+        <div className="flex flex-row justify-start  items-center gap-5">
+          <a href="https://www.facebook.com/fantastizeey">
+            <img src="/Frame 642.png" alt="facebook" />
+          </a>
+          <a href="https://www.instagram.com/fantastizeey/">
+            <img src="/Frame 643.png" alt="Instagram" />
+          </a>
+          <a href="https://x.com/Fantastizeey">
+            <img src="/Frame 644.png" alt="Twitter" />
+          </a>
+        </div>
+        <div className="flex justify-center items-center flex-col md:flex-row">
+          <ul className="flex flex-row items-center gap-[20px]">
+            <li className="text-[14px] md:text-[20px] text-[#9524FF] font-normal">
+              <a href="/">Home</a>
+            </li>
+            <li className="text-[14px] md:text-[20px] font-normal">
+              <a href="/">About Us</a>
+            </li>
+            <li className="text-[14px] md:text-[20px] font-normal">
+              <a href="/">Gallery</a>
+            </li>
+            <li className="text-[14px] md:text-[20px] font-normal">
+              <a href="/">Contact Us</a>
+            </li>
+          </ul>
         </div>
       </div>
     </footer>
