@@ -20,7 +20,7 @@ const Whoweare = () => {
           founders, innovators, and tech enthusiasts could connect, share ideas,
           and foster collaboration.
         </p>
-        <div className="w-full flex flex-col md:flex-row gap-4 md:gap-[36px] mt-[40px] md:mt-[70px] mb-[70px] lg:mb-[135px] 2xl:mb-[130px]">
+        <div className="w-full flex flex-col md:flex-row gap-4 md:gap-[36px] mt-[40px] md:mt-[70px] mb-[70px] lg:mb-[135px] 2xl:mb-[160px]">
           <button className="w-full md:w-1/2 bg-[#A649FF] text-white px-6 md:px-[70px] py-[12px] md:py-[20px] rounded-[30px] md:rounded-[40px] flex items-center justify-center gap-5 text-[18px] md:text-[24px] font-bold">
             Register <img src="/ArrowRightwhite.png" alt="" />
           </button>

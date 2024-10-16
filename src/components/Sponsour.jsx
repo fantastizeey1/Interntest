@@ -2,7 +2,7 @@ import React from "react";
 
 const Sponsour = () => {
   return (
-    <section className="max-w-[95%] w-full px-4 md:px-[50px] 2xl:px-[80px] mx-auto relative mt-10 lg:mt-[60px] 2xl:mt-[150px] gap-10 flex flex-col justify-between">
+    <section className="max-w-[95%] w-full px-4 md:px-[50px] 2xl:px-[80px] mx-auto relative mt-10 lg:mt-[60px] 2xl:mt-[180px] gap-10 flex flex-col justify-between">
       <div className="flex flex-col justify-between w-full items-start">
         <h3 className="text-[#5c00b3] text-[24px] md:text-[30px] leading-[30px] md:leading-[38px] font-bold mb-2">
           Sponsor The Next Friday
