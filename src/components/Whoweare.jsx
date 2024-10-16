@@ -35,7 +35,7 @@ const Whoweare = () => {
       <img
         src="/Line 1.png"
         alt="line"
-        className="absolute top-[22.76px]  lg:left-[51%] 2xl:left-[820px] hidden md:block"
+        className="absolute top-[22.76px]  lg:left-[51%] 2xl:left-[850px] hidden md:block"
       />
     </section>
   );
