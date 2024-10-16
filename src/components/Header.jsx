@@ -12,7 +12,7 @@ const Header = () => {
       <div className="flex items-center gap-[10px] lg:w-2/5 xl:w-1/2 2xl:w-4/5">
         <img src="/Logo.png" alt="logo" className="w-[80px] h-[80px]" />
         <p className="font-montserrat lg:text-[22px] 2xl:text-[28px] xl:leading-[36px] font-bold">
-          Founde&apos;s Friday
+          Founder&apos;s Friday
         </p>
       </div>
 

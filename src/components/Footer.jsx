@@ -6,7 +6,7 @@ const Footer = () => {
       <a href="/" className="flex justify-start items-center mg:mb-[75px]">
         <img src="/Logo.png" alt="logo" className="w-[80px] h-[80px]" />
         <p className="font-montserrat lg:text-[22px] 2xl:text-[28px] xl:leading-[36px] font-bold">
-          Founde&apos;s <br /> Friday
+          Founder&apos;s <br /> Friday
         </p>
       </a>
       <div className="border-b  border-[#B86DFF] mb-[50px]">
@@ -25,16 +25,21 @@ const Footer = () => {
         </div>
       </div>
       <div className="flex justify-between items-center  flex-col gap-9 md:flex-row w-full mb-10">
-        <div className="flex flex-row justify-start  items-center gap-5">
-          <a href="https://www.facebook.com/fantastizeey">
-            <img src="/Frame 642.png" alt="facebook" />
-          </a>
-          <a href="https://www.instagram.com/fantastizeey/">
-            <img src="/Frame 643.png" alt="Instagram" />
-          </a>
-          <a href="https://x.com/Fantastizeey">
-            <img src="/Frame 644.png" alt="Twitter" />
-          </a>
+        <div className="flex flex-col md:flex-row justify-center md:justify-start  items-center gap-5">
+          <div className="flex flex-row justify-start  items-center gap-5">
+            <a href="https://www.facebook.com/fantastizeey">
+              <img src="/Frame 642.png" alt="facebook" />
+            </a>
+            <a href="https://www.instagram.com/fantastizeey/">
+              <img src="/Frame 643.png" alt="Instagram" />
+            </a>
+            <a href="https://x.com/Fantastizeey">
+              <img src="/Frame 644.png" alt="Twitter" />
+            </a>
+          </div>{" "}
+          <span className="text-[18px] leading-8 text-black ml-10">
+            © Ayoola Enitan
+          </span>
         </div>
         <div className="flex justify-center items-center flex-col md:flex-row">
           <ul className="flex flex-row items-center gap-[20px]">
